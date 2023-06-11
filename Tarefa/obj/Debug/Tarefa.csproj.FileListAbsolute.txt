@@ -1,0 +1,8 @@
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\bin\Debug\Tarefa.exe.config
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\bin\Debug\Tarefa.exe
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\bin\Debug\Tarefa.pdb
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.exe
+C:\Users\Felipe\source\repos\Tarefa\Tarefa\obj\Debug\Tarefa.pdb
